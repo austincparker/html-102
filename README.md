@@ -3,3 +3,5 @@
 ## features
 - added navbar
 - added cards
+- added pages javascript, css, html
+- updated navbars
