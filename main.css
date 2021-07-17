@@ -1,3 +1,8 @@
 body {
     background-color: rosybrown;
 }
+
+.card-section {
+    display: flex;
+    flex-wrap: wrap;
+}
